@@ -1,4 +1,4 @@
-const words = ["Jundi.", "A Student.", "A Developer."]
+const words = ["Indana.", "A Student.", "A Developer."]
 
 let cursor = gsap.to('.cursor', { opacity: 0, ease: "power2.inOut", repeat: -1 })
 
